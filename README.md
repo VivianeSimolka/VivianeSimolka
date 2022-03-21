@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 <h3 align="left">In my free time, I enjoy:</h3>
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/Yoga" target="blank"><img align="center" src="https://img.freepik.com/vektoren-kostenlos/yogalogoikonenlinie-entwurfsmonolineart_7688-1317.jpg?w=826" alt="yoga" height="40" width="40" /></a>
-  <a href="https://en.wikipedia.org/wiki/Hiking" target="blank"><img align="center" src="https://img.freepik.com/free-vector/silhouette-sunset-hiking-logo-design_527727-192.jpg?w=826" alt="hiking" height="40" width="40" /></a>
-<a href="https://www.codewars.com/" target="blank"><img align="center" src="https://www.codewars.com/users/Vivianeblipblip/badges/micro" alt="codewars" height="40" width="40" /></a>
+  <a href="https://en.wikipedia.org/wiki/Hiking" target="blank"><img align="center" src="https://img.freepik.com/free-vector/silhouette-sunset-hiking-logo-design_527727-192.jpg?w=826" alt="hiking" height="40" width="40" /></a> </br>
+<a href="https://www.codewars.com/users/Vivianeblipblip" target="blank"><img align="center" src="https://www.codewars.com/users/Vivianeblipblip/badges/micro" alt="codewars" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
