@@ -42,7 +42,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">In my free time, I enjoy:</h3>
 <p align="left">
-  <a href="https://en.wikipedia.org/wiki/Yoga" target="blank"><img align="center" src="https://img.freepik.com/vektoren-kostenlos/yogalogoikonenlinie-entwurfsmonolineart_7688-1317.jpg?w=826" alt="yoga" height="40" width="40" /></a>
+  <a href="https://en.wikipedia.org/wiki/Yoga" target="blank"><img align="center" src="https://cpng.pikpng.com/pngl/s/362-3622822_gerald-g-yoga-poses-stylized-4-999px-51.png" alt="yoga" height="40" width="40" /></a>
+  <a href="https://en.wikipedia.org/wiki/Hiking" target="blank"><img align="center" src="https://t3.ftcdn.net/jpg/03/53/96/20/360_F_353962028_fDU46cGtlGIn0Soapgkb0YsYkvkNIaVn.jpg" alt="hiking" height="40" width="40" /></a>
 <a href="https://www.codewars.com/" target="blank"><img align="center" src="https://blog.codewars.com/logo.png?h=cbc5fc2fb90154f31e3eb4ed3d3d572d497fa0522469e8f186562c4365b43db2" alt="codewars" height="40" width="40" /></a>
 </p>
 
