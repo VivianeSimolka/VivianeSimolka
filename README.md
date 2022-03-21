@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">In my free time, I enjoy:</h3>
 <p align="left">
+  <a href="https://en.wikipedia.org/wiki/Yoga" target="blank"><img align="center" src="https://user-images.githubusercontent.com/79335849/159221489-c7982295-f26f-4885-99a4-40e77700f9fe.png" alt="yoga" height="40" width="40" /></a>
 <a href="https://www.codewars.com/" target="blank"><img align="center" src="https://blog.codewars.com/logo.png?h=cbc5fc2fb90154f31e3eb4ed3d3d572d497fa0522469e8f186562c4365b43db2" alt="codewars" height="40" width="40" /></a>
 </p>
 
