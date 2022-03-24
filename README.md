@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Viviane (She/Her)</h1>
 <h3 align="center">A passionate data analyst based in Berlin.</h3>
 
-<p align="left">Having just completed the data science bootcamp at Le Wagon, I am now looking for my next position in data analysis. I am passionate about transforming data into insights and solving concrete problems. After more than 8 years of experience in controlling, I want to go beyond financial data and work for a fast paced company which fosters proactivity and achievements.</p>
+<p align="left">Having just completed the data science bootcamp at Le Wagon, I am now looking for my next position in data analysis. </br>
+  I am passionate about transforming data into insights and solving concrete problems. </br>
+  After more than 8 years of experience in controlling, I want to go beyond financial data and work for a fast paced company which fosters proactivity and achievements.</p>
 
 
 <h3 align="left">My main Tech Stack is:</h3>
