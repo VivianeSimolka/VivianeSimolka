@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Viviane (She/Her)</h1>
+<h1 align="center">Hi 👋, I'm Viviane</h1>
 <h3 align="center">A passionate data analyst based in Berlin.</h3>
 
 <p align="left">Having just completed the data science bootcamp at Le Wagon, I am now looking for my next position in data analysis. </br>
