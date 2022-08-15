@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">My main Tech Stack is:</h3>
 <p align="left"> 
+  <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/11f54bac1b6dfad2cbd1c6da9f2245ec8b5ea22b/logos/dbt-icon.svg" alt="dbt" width="40" height="40"/> </a>
 <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/> </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org//" target="_blank" rel="noreferrer"> <img src="https://wiki.postgresql.org/images/thumb/a/a4/PostgreSQL_logo.3colors.svg/540px-PostgreSQL_logo.3colors.svg.png" alt="PostgreSQL" width="40" height="40"/> </a>
